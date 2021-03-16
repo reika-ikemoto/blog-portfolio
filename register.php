@@ -60,7 +60,7 @@
                 </div>
                 <div class="form-group col-md-8 text-right">
                     <p class="font-weight-light">Do you already have an account ? 
-                        <a href="login.php" class="text-primary">Sign in</a>
+                        <a href="index.php" class="text-primary">Sign in</a>
                     </p>
                 </div>
             </div>
